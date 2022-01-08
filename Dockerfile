@@ -35,6 +35,7 @@ RUN  echo "30 4 * * * : > /var/log/nginx/access.log; : > /var/log/nginx/error.lo
 
 RUN  apt-get clean -y && apt-get -y autoremove
 RUN  rm /tmp/*
+RUN  rm /etc/nginx/conf.d/default.conf
 
 COPY docker/start.sh /
 COPY docker/supervisor_smokeping.conf /etc/supervisor/conf.d/
