@@ -1,0 +1,12 @@
+*** General ***
+
+owner    = Gru
+contact  = spam@linuxiarz.pl
+mailhost = smoke.wroclaw.linuxiarz.pl
+sendmail = /usr/sbin/sendmail
+cgiurl   = https://smoke.home2.linuxiarz.pl/smokeping/smokeping.cgi
+display_name = PL/Poznan/Inea
+syslogfacility = local0
+
+@include /etc/smokeping/config.d/pathnames
+

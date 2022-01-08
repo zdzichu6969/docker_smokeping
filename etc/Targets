@@ -1,0 +1,886 @@
+*** Targets ***
+
+@include host_cfg
+
+menu = Top
+title = Network Latency Grapher
+remark = Hello
+
++ PL-IX
+menu = PL-IX
+title = PL-IX
+
+++ plix
+menu = PLIX
+title = PLIX (46.28.245.18)
+host = 46.28.245.18
+
+++ lix
+menu = LIX
+title = LIX (195.43.72.1)
+host = 195.43.72.1
+
+++ NASK
+menu = NASK
+title = NASK (195.187.242.1)
+host = 195.187.242.1
+
+++ wrix
+menu = WRIX
+title = WRIX (193.239.59.252)
+host = 193.239.59.252
+
+++ pozix
+menu = POZIX
+title = POZiX (217.168.140.43)
+host = 217.168.140.43
+
+++ thinx
+menu = THINX
+title = THINX (85.232.251.78)
+host = 85.232.251.78
+
+++ exatel
+menu = EXATEL
+title = EXATEL (82.177.4.1)
+host = 82.177.4.1
+
+++ wask
+menu = WASK
+title = WASK (156.17.254.3)
+host = 156.17.254.3
+
+++ tktelkom
+menu = TK Telkom
+title = TK Telkom (213.199.225.14)
+host = 213.199.225.14
+
+++ vt
+menu = Virtual Telecom
+title = Virtual Telecom (46.232.128.244)
+host = 46.232.128.244
+
+++ connected
+menu = Connected
+title = Connected (93.159.141.100)
+host = 93.159.141.100
+
+++ tpix
+menu = TPIX
+title = TPIX (80.50.248.79)
+host = 80.50.248.79
+
+++ level3
+menu = Level3 WAW
+title = Level3 WAW (4.69.153.70)
+host = 4.69.153.70
+
+++ tatawaw
+menu = TATA Communications WAW
+title = TATA Communications WAW (66.110.1.126)
+host = 66.110.1.126 
+
+++ teliawaw
+menu = Telia WAW
+title = Telia WAW (80.91.255.117)
+host = 80.91.255.117
+
+++ nttawaw
+menu = NTT WAW
+title = NTT WAW (129.250.3.80)
+host = 129.250.3.80
+
+++ kpnwaw
+menu = KPN International WAW
+title = KPN International WAW (134.222.85.83)
+host = 134.222.85.83
+
+++ pionier
+menu = Pionier
+title = Pionier (150.254.173.39)
+host = 150.254.173.39
+
+++ etop
+menu = eTop
+title = eTop (79.133.202.12)
+host = 79.133.202.12
+
+++ gtspl
+menu = GTS PL
+title = GTS PL (213.218.120.1)
+host = 213.218.120.1
+
++ globalIX
+menu = Global IX
+title = Global IX
+
+++ amsix
+menu = AMS-IX (NL/Amsteredam)
+title = AMS-IX (185.55.136.59)
+host = 185.55.136.59
+
+++ balkanix
+menu = Balcan-IX (RO/Bucharest)
+title = Balcan-IX (86.35.15.1)
+host = 86.35.15.1
+
+++ bcix
+menu =  BCIX (DE/Berlin)
+title = BCIX (185.44.109.3)
+host = 185.44.109.3
+
+++ bix
+menu = BIX (HU/Budapest)
+title = BIX (193.239.149.210)
+host = 193.239.149.210
+
+++ catnix
+menu = CATNIX (ES/Barcelona)
+title = CATNIX (84.88.11.8)
+host = 84.88.11.8
+
+++ cbix
+menu = CBIX (CZ/Brno)
+title = CBIX (81.31.33.20)
+host = 81.31.33.20
+
+++ coresite
+menu = CoreSite (US/Denver)
+title = CoreSite (67.212.154.218)
+host = 67.212.154.218
+
+++ dataixru
+menu = DATAIX (RU/Moscow)
+title = DATAIX (178.18.228.153)
+host = 178.18.228.153
+
+++ dix
+menu = DIX (DK/Copenhagen)
+title = DIX (95.128.24.1)
+host = 95.128.24.1
+
+++ dtelix
+menu = dtel-ix (UA/Kiev)
+title = DIX (109.68.46.87)
+host = 109.68.46.87
+
+++ espanix
+menu = ESPANIX (ES/Madrit)
+title = ESPANIX (193.149.0.205)
+host = 193.149.0.205
+
+++ exwest
+menu = ExWest (IE/Galway)
+title = ExWest (91.189.70.69)
+host = 91.189.70.69
+
+++ frixparis
+menu = FR-IX (FR/Paris)
+title = FR-IX (89.234.129.138)
+host = 89.234.129.138
+
+++ fixo
+menu = FIXO (NO/Oslo)
+title = FIXO (134.90.144.237)
+host = 134.90.144.237
+
+++ gigaapix
+menu = GigaPIX (PT/Lisbon)
+title = GigaPIX (193.136.1.1)
+host = 193.136.1.1
+
+++ guix
+menu = GU-IX (GU/Guam)
+title = GU-IX (202.128.30.12)
+host = 202.128.30.12
+
+++ hixhonolulu
+menu = HIX (US/Honolulu)
+title = HIX (141.8.225.31)
+host = 141.8.225.31
+
+++ ixasn
+menu = IX Australia WA (AU/Perth)
+title = IX Australia WA (43.250.234.43)
+host = 43.250.234.43
+
+++ ixpn
+menu = IXPN (NG/Lagos)
+title = IXPN (41.222.79.4)
+host = 41.222.79.4
+
+++ ixbr
+menu = IXPN (BR/Brasilia)
+title = IXPN (200.160.6.220)
+host = 200.160.6.220
+
+++ jpnap
+menu = JPNAP (JP/Osaka)
+title = JPNAM (210.173.170.40)
+host = 210.173.170.40
+
+++ jpix
+menu = JPIX (JP/Tokyo)
+title = JPIX (160.13.168.211)
+host = 160.13.168.211
+
+++ kazix
+menu = KAZ-IX (KZ/Almaty)
+title = KAZ-IX (195.2.230.131)
+host = 195.2.230.131
+
+++ kinx
+menu = KINX (KR/Seoul)
+title = KINX (203.238.178.10)
+host = 203.238.178.10
+
+++ kixp
+menu = KIXP (KE/Nairobi)
+title = KIXP (196.6.220.17)
+host = 196.6.220.17
+
+++ liptam
+menu = LIPTAM (LT/Vilnius)
+title = LIPTAM (195.182.95.223)
+host = 195.182.95.223
+
+++ linx
+menu = LINX (UK/London)
+title = LINX (195.66.234.18)
+host = 195.66.234.18
+
+++ lonap
+menu = Lonap (UK/London)
+title = Lonap (91.198.81.17)
+host = 91.198.81.17
+
+++ lucix
+menu = LU-CIX (LU/Luxembourg)
+title = LU-CIX (91.232.88.88)
+host = 91.232.88.88
+
+++ mixit
+menu = MIX-IT (IT/Milan)
+title = MIX-IT (217.29.77.53)
+host = 217.29.77.53
+
+++ malmix
+menu = MalmIX (SE/Malmö)
+title = MalmIX (193.138.217.89)
+host = 193.138.217.89
+
+++ mdix
+menu = MD-IX (MD/Chisinau)
+title = MD-IX (212.0.212.212)
+host = 212.0.212.212
+
+++ myix
+menu = MyIX (MY/Kuala Lumpur)
+title = MyIX (183.81.167.201)
+host = 183.81.167.201
+
+++ mskix
+menu = MSK-IX (RU/Moscow)
+title = MSK-IX (194.226.65.3)
+host = 194.226.65.3
+
+++ netnod
+menu = Netnod (SE/Stockholm)
+title = Netnod (194.58.192.133)
+host = 194.58.192.133
+
+++ nixde
+menu = N-IX (DE/Nuernberg)
+title = N-IX (194.8.57.5)
+host = 194.8.57.5
+
+++ nixi
+menu = NIXI (IN/Mumbai)
+title = NIXi (118.67.249.253)
+host = 118.67.249.253
+
+++ napchile
+menu = NAP Chile (CL/Santiago de Chile)
+title = NAP Chile (190.61.253.204)
+host = 190.61.253.204
+
+++ nasaaix
+menu = NASA-AIX (US/Mountain View)
+title = NASA-AIX (198.9.202.209)
+host = 198.9.202.209
+
+++ nlix
+menu = NLix (NL/Amsterdam)
+title = NLix (213.207.16.11)
+host = 213.207.16.11
+
+++ ocix
+menu = OCIX (SX/Philipsburg)
+title = OCIX (201.220.14.210)
+host = 201.220.14.210
+
+++ pacificwave
+menu = PacificWave (US/West Coast)
+title = PacificWave (192.240.189.101)
+host = 192.240.189.101
+
+++ rix
+menu = RIX (IS/Reykjavik)
+title = RIX (193.4.58.93)
+host = 193.4.58.93
+
+++ torix
+menu = TORIX (CA/Toronto)
+title = TORIX (206.108.0.36)
+host = 206.108.0.36
+
+++ thixbangkok
+menu = TH-IX (TH/Bangkok)
+title = TH-IX (122.155.96.36)
+host = 122.155.96.36
+
+++ tixit
+menu = TIX (IT/Sesto Fiorentino-Florence)
+title = TIX (159.213.224.1)
+host = 159.213.224.1
+
+++ twix
+menu = TWIX (TW/Taipei)
+title = TWIX (203.69.42.10)
+host = 203.69.42.10
+
+++ uaix
+menu = UA-IX (UA/Kiev)
+title = UA-IX (195.64.225.67)
+host = 195.64.225.67
+
+++ wixnz
+menu = WIX-NZ (NZ/Wellington)
+title = TLLIX (202.8.44.5)
+host = 202.8.44.5
+
+++ sthix
+menu = STHIX (SE/Stockholm)
+title = STHIX (194.50.181.51)
+host = 194.50.181.51
+
+++ swissix
+menu = SwissIX (CH/Zurich)
+title = SwissIX (194.242.34.126)
+host = 194.242.34.126
+
++ PL-ISP
+menu = PL-ISP
+title = PL-ISP
+
+++ TPNET
+menu = Orange WAW
+title = Orange WAW (194.204.175.61)
+host = 194.204.175.61
+
+++ UPC
+menu = UPC
+title = UPC (81.18.192.8)
+host = 81.18.192.8
+
+++ Multimeda
+menu = Multimedia
+title = Multimedia (217.172.226.6)
+host = 217.172.226.6
+
+++ KorbankWroclaw
+menu = Korbank
+title = Korbank (79.110.202.1)
+host = 79.110.202.1
+
+++ MoicoWroclaw
+menu = Moico
+title = Moico (188.121.31.241)
+host = 188.121.31.241
+
+++ internetunion
+menu = Internet Union
+title = Internat Union (188.121.31.241)
+host = 188.121.31.241
+
+++ jmdi
+menu = JMDI
+title = JMDI (185.78.132.2)
+host = 185.78.132.2
+
+++ vectra
+menu = Vectra
+title = Vectra (109.241.239.11)
+host = 109.241.239.11
+
+++ koba
+menu = Koba
+title = Koba (83.175.144.62)
+host = 83.175.144.62
+
+++ Netia
+menu = Netia
+title = Netia (195.114.181.130)
+host = 195.114.181.130
+
+++ Inea
+menu = Inea
+title = Inea (46.238.83.5)
+host = 46.238.83.5
+
+++ orangeGda
+menu = Orange GDA
+title = Orange GDA (194.204.128.11)
+host = 194.204.128.11
+
+++ limes
+menu = Limes
+title = Limes (89.206.0.154)
+host = 89.206.0.154
+
+++ toya
+menu = TOYA
+title = TOYA (217.113.224.63)
+host = 217.113.224.63
+
+++ T_m
+menu = T-Mobile
+title = T-Mobile (213.158.198.205)
+host = 213.158.198.205
+
+++ polkomtel
+menu = Plus
+title = Plus (212.2.96.51)
+host = 212.2.96.51
+
+++ Sumernet
+menu = Sumernet
+title = Sumernet (91.226.231.1)
+host = 91.226.231.1
+
+++ Echostar
+menu = Echostar 
+title = Echostar (213.156.98.1)
+host = 213.156.98.1
+
+++ p4
+menu = P4
+title = P4 (89.108.195.33)
+host = 89.108.195.33
+
+++ krtnet
+menu = Telport KRTNET
+title = Telport KRTNET (91.217.19.241)
+host = 91.217.19.241
+
+++ dialog
+menu = Dialog
+title = Dialog (217.30.137.10)
+host = 217.30.137.10
+
+++ mnetworks
+menu = M-Networks
+title = M-Networks (91.237.68.2)
+host = 91.237.68.2
+
+++ finemedia
+menu = FineMedia
+title = FineMedia (188.122.20.1)
+host = 188.122.20.1
+
+++ generacja
+menu = Generacja.pl
+title = Generacja.pl (194.146.219.19)
+host = 194.146.219.19
+
+++ teleport
+menu = Teleport
+title = Teleport (91.217.19.241)
+host = 91.217.19.241
+
+++ ingnet   
+menu = Ingnet
+title = Ingnet (92.55.250.1)
+host = 92.55.250.1
+
+++ komster
+menu = Komster
+title = Komster (193.22.83.226)
+host = 193.22.83.226
+
+++ jjs
+menu = JJS
+title = JJS (94.158.234.130)
+host = 94.158.234.130
+
+++ metroline
+menu = Metroline
+title = Metroline (109.95.137.48)
+host = 109.95.137.48
+
+++ nsti
+menu = NSTI
+title = NSTI (193.192.168.149)
+host = 193.192.168.149
+
+++ skynet
+menu = Skynet
+title = Skynet (194.153.119.17)
+host = 194.153.119.17
+
+++ actus
+menu = ACTUS
+title = ACTUS (185.80.162.30)
+host = 185.80.162.30
+
+
++ PL-DC
+menu = PL-DC
+title = PL-DC
+
+++ iq
+menu = IQ
+title = IQ (46.248.186.180)
+host = 46.248.186.180
+
+++ OVH
+menu = OVH WAW
+title = OVH WAW (145.239.28.19)
+host = 145.239.28.19
+
+++ beyond
+menu = Beyond
+title = Beyond (92.43.112.1)
+host = 92.43.112.1
+
+++ exea
+menu = Exea
+title = Exea (185.15.44.1)
+host = 185.15.44.1
+
+++ 3s
+menu = 3S
+title = 3S (89.25.150.9)
+host = 89.25.150.9
+
+++ homelcloud
+menu = Homecloud
+title = Homecloud (46.41.156.4)
+host = 46.41.156.4
+
+++ snet
+menu = S-Net
+title = S-Net (94.124.3.24)
+host = 94.124.3.24
+
+++ sprint
+menu = Sprintdatacenter
+title = Sprintdatacenter (46.29.16.100)
+host = 46.29.16.100
+
+++ TASK
+menu = TASK
+title = TASK (153.19.250.101)
+host = 153.19.250.101
+
+++ polcom
+menu = Polcom
+title = Polcom (46.174.176.11)
+host = 46.174.176.11
+
++ World
+menu = World Ping
+title = World Ping
+
+++ Facebook
+menu = Facebook
+title = Facebook (facebook.com)
+host = 31.13.90.36
+
+++ mailru
+menu = MAIL.RU
+title = MAIL.RU (94.100.180.138)
+host = 94.100.180.138
+
+++ chinatelevom
+menu = China Telecom Global
+title = China Telecom Global (203.100.51.1)
+host = 203.100.51.1
+
+++ gtt
+menu = GTT
+title = GTT (213.200.89.3)
+host = 213.200.89.3
+
+++ o_twode
+menu = o2.de
+title = o2.de (82.113.113.132)
+host = 82.113.113.132
+
+++ btuk
+menu = BT UK
+title = BT UK (213.121.193.42)
+host = 213.121.193.42
+
+++ incpsula
+menu = Imperva Incapsula
+title = Imperva Incapsula (107.154.76.41)
+host = 107.154.76.41
+
+++ cogent
+menu = Cogent
+title = Cogent (66.28.0.14)
+host = 66.28.0.14
+
+++ Youtube
+menu = YouTube
+title = YouTube (216.58.208.46)
+host = 216.58.208.46
+
+++ Cloudflare
+menu = Cloudflare
+title = Cloudflare (173.245.58.114)
+host = 173.245.58.114
+
+++ HE_net
+menu = HE.net
+title = HE.net (216.218.186.2)
+host = 216.218.186.2
+
+++ Amazon_EU
+menu = Amazon EU
+title = Amazon EU (34.240.0.253)
+host = 34.240.0.253
+
+++ Amazon_China
+menu = Amazon China
+title = Amazon China (52.80.5.207)
+host = 52.80.5.207
+
+++ Amazon_Asia
+menu = Amazon Asia
+title = Amazon Asia (13.112.63.251)
+host = 13.112.63.251
+
+++ Amazon_US_EAST
+menu = Amazon US EAST
+title = Amazon US EAST (18.204.0.0)
+host = 18.204.0.0
+
+++ Amazon_US_WEST
+menu = Amazon US WEST
+title = Amazon US WEST (13.52.0.0)
+host = 13.52.0.0
+
+++ Hetznet
+menu = Hetznet
+title = Hetznet (213.239.204.242)
+host = 213.239.204.242
+
+++ ukrtelecom
+menu = Ukrtelecom
+title = Ukrtelecom (82.207.67.6)
+host = 82.207.67.6
+
+++ rostelecom
+menu = Rostelecom
+title = Rostelecom (87.226.159.14)
+host = 87.226.159.14
+
+++ rstelekom
+menu = RS Telekom SRBIJA
+title = RS Telekom SRBIJA (195.178.44.159)
+host = 195.178.44.159
+
+++ telcomitalia
+menu = Telcom Italia
+title = Telcom Italia (156.54.82.1)
+host = 156.54.82.1
+
+++ ntltt
+menu = LT NTT 
+title = LT NTT (84.32.3.34)
+host = 84.32.3.34
+
+++ vodafonees
+menu = Vodafone ES
+title = Vodafone ES (212.73.32.3)
+host = 212.73.32.3
+
+++ verizonus
+menu = Verizon US
+title = Verizon US (108.52.197.131)
+host = 108.52.197.131
+
+++ digitalocean
+menu = Digital Ocean US
+title = Digital Ocean US (192.241.209.37)
+host = 192.241.209.37
+
+++ google
+menu = Google US
+title = Google US (74.125.0.41)
+host = 74.125.0.41 
+
+++ blizzard_wow
+menu = Blizzard WoW
+title = Blizzard WOW
+
++++ blizzardEU
+menu = Blizzard EU
+title = Blizzard EU (185.60.112.157)
+host = 185.60.112.157
+
++++ blizzardUS
+menu = Blizzard US
+title = Blizzard US (24.105.62.129)
+host = 24.105.62.129
+
++++ blizzardAU
+menu = Blizzard AU
+title = Blizzard AU (103.4.115.248)
+host = 103.4.115.248
+
++ Global_DNS
+menu = Global DNS
+title = Global DNS
+
+++ ROOT_DNS
+menu = Root DNS Servers
+title = Root DNS Servers
+
++++ root_a
+menu = a.root-servers.net
+title = a.root-servers.net
+host = 198.41.0.4
+
++++ root_b
+menu = b.root-servers.net
+title = b.root-servers.net
+host = 199.9.14.201
+
++++ root_c
+menu = c.root-servers.net
+title = c.root-servers.net
+host = 192.33.4.12
+
++++ root_d
+menu = d.root-servers.net
+title = d.root-servers.net
+host = 199.7.91.13
+
++++ root_e
+menu = e.root-servers.net
+title = e.root-servers.net
+host = 192.203.230.10
+
++++ root_f
+menu = f.root-servers.net
+title = f.root-servers.net
+host = 192.5.5.241
+
++++ root_g
+menu = h.root-servers.net
+title = h.root-servers.net
+host = 192.112.36.4
+
++++ root_i
+menu = i.root-servers.net
+title = i.root-servers.net
+host = 192.36.148.17
+
++++ root_j
+menu = j.root-servers.net
+title = j.root-servers.net
+host = 192.58.128.30
+
++++ root_k
+menu = k.root-servers.net
+title = k.root-servers.net
+host = 193.0.14.129
+
++++ root_l
+menu = l.root-servers.net
+title = l.root-servers.net
+host = 199.7.83.42
+
++++ root_m
+menu = m.root-servers.net
+title = m.root-servers.net
+host = 202.12.27.33
+
+
+++ GoogleDNS1
+menu = Google DNS 1
+title = Google DNS (8.8.8.8)
+host = 8.8.8.8
+
+++ GoogleDNS2
+menu = Google DNS 2
+title = Google DNS (8.8.4.4)
+host = 8.8.4.4
+
+++ OpenDNS1
+menu = OpenDNS 1
+title = OpenDNS 1 (208.67.222.222)
+host = 208.67.222.222
+
+++ OpenDNS2
+menu = OpenDNS 2
+title = OpenDNS 2 (208.67.220.220)
+host = 208.67.220.220
+
+++ CloudflareDNS1
+menu = CloudflareDNS 1
+title = CloudflareDNS 1 (1.1.1.1)
+host = 1.1.1.1
+
+++ CloudflareDNS2
+menu = CloudflareDNS 2
+title = CloudflareDNS 2 (1.0.0.1)
+host = 1.0.0.1
+
+++ comododns1
+menu = Comodo Secure DNS 1
+title = Comodo Secure DNS 1 (8.26.56.26)
+host = 8.26.56.26
+
+++ comododns2
+menu = Comodo Secure DNS 2
+title = Comodo Secure DNS 2 (8.20.247.20)
+host = 8.20.247.20
+
+++ quad9dns1
+menu = Quad9 DNS 1
+title = Quad9 DNS (9.9.9.9)
+host = 9.9.9.9
+
+++ quad9dns2
+menu = Quad9 DNS 2
+title = Quad9 DNS (149.112.112.112)
+host = 149.112.112.112
+
+++ level3dns1
+menu = Level3 DNS
+title = Level3 DNS (209.244.0.3)
+host = 209.244.0.3
+
+++ safedns1
+menu = SafeDNS 1
+title = SafeDNS 1 (195.46.39.39)
+host = 195.46.39.39
+
+++ safedns2
+menu = SafeDNS 2
+title = SafeDNS 2 (195.46.39.40)
+host = 195.46.39.40
+
+++ dnswatch1
+menu = DNS.Watch 1
+title = DNS.Watch 1 (84.200.69.80)
+host = 195.46.39.39
+
+++ dnswatch2
+menu = DNS.Watch 2
+title = DNS.Watch 2 (84.200.70.40)
+host = 195.46.39.40

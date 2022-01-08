@@ -1,0 +1,6 @@
+docker run -p 85:80 --name smokeping -d \
+-v /data/smoke/etc:/etc/smokeping \
+-v /data/smoke/data:/var/lib/smokeping \
+-v /etc/localtime:/etc/localtime:ro \
+-e TZ=Europe/Warsaw \
+zdzichu6969/smoke_2.8.2_1

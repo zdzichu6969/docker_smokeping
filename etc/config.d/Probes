@@ -1,0 +1,7 @@
+*** Probes ***
+
++ FPing
+
+binary = /usr/bin/fping
+blazemode = true
+
